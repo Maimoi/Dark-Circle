@@ -1,4 +1,4 @@
-# Road-safety-SIH
+
 # Create a Google map
 # Add markers for the black spots
 # Users should be notified within a certain range with a voice message about the black spot 
